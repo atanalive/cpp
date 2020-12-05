@@ -1,0 +1,19 @@
+D:\study soft\vs file\AirPlane_Fight\AirPlane_Fight\bin\Release\AirPlane_Fight.exe.config
+D:\study soft\vs file\AirPlane_Fight\AirPlane_Fight\bin\Release\AirPlane_Fight.exe
+D:\study soft\vs file\AirPlane_Fight\AirPlane_Fight\bin\Release\AirPlane_Fight.pdb
+D:\study soft\vs file\AirPlane_Fight\AirPlane_Fight\obj\Release\AirPlane_Fight.csprojAssemblyReference.cache
+D:\study soft\vs file\AirPlane_Fight\AirPlane_Fight\obj\Release\AirPlane_Fight.Gameform.resources
+D:\study soft\vs file\AirPlane_Fight\AirPlane_Fight\obj\Release\AirPlane_Fight.Properties.Resources.resources
+D:\study soft\vs file\AirPlane_Fight\AirPlane_Fight\obj\Release\AirPlane_Fight.csproj.GenerateResource.cache
+D:\study soft\vs file\AirPlane_Fight\AirPlane_Fight\obj\Release\AirPlane_Fight.csproj.CoreCompileInputs.cache
+D:\study soft\vs file\AirPlane_Fight\AirPlane_Fight\obj\Release\AirPlane_Fight.exe
+D:\study soft\vs file\AirPlane_Fight\AirPlane_Fight\obj\Release\AirPlane_Fight.pdb
+C:\Users\威威泽\Desktop\plane_war\plane_war\AirPlane_Fight\bin\Release\AirPlane_Fight.exe.config
+C:\Users\威威泽\Desktop\plane_war\plane_war\AirPlane_Fight\bin\Release\AirPlane_Fight.exe
+C:\Users\威威泽\Desktop\plane_war\plane_war\AirPlane_Fight\bin\Release\AirPlane_Fight.pdb
+C:\Users\威威泽\Desktop\plane_war\plane_war\AirPlane_Fight\obj\Release\AirPlane_Fight.Gameform.resources
+C:\Users\威威泽\Desktop\plane_war\plane_war\AirPlane_Fight\obj\Release\AirPlane_Fight.Properties.Resources.resources
+C:\Users\威威泽\Desktop\plane_war\plane_war\AirPlane_Fight\obj\Release\AirPlane_Fight.csproj.GenerateResource.cache
+C:\Users\威威泽\Desktop\plane_war\plane_war\AirPlane_Fight\obj\Release\AirPlane_Fight.csproj.CoreCompileInputs.cache
+C:\Users\威威泽\Desktop\plane_war\plane_war\AirPlane_Fight\obj\Release\AirPlane_Fight.exe
+C:\Users\威威泽\Desktop\plane_war\plane_war\AirPlane_Fight\obj\Release\AirPlane_Fight.pdb
